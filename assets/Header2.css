@@ -24,7 +24,7 @@
 
 .header2__collections-nav a {
     padding-right: 20px;
-    display: inline-block
+    display: inline-block;
 }
 
 .header2__collection-link {
@@ -65,10 +65,12 @@
     font-size: 2rem;
     font-family: "Bebas Neue", cursive
 }
+
 @media (max-width: 768px) {
     .header2 a {
         display: none;
-   }
+    }
+
     .header2__logo span {
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
@@ -77,12 +79,14 @@
         justify-content: center;
         align-items: left;
         transform: translate(-140px);
-   }
+    }
 }
+
 @media (max-width: 770px) {
     .header2 a {
         display: none;
-   }
+    }
+
     .header2__logo span {
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
@@ -91,17 +95,20 @@
         justify-content: center;
         align-items: left;
         transform: translate(-150%);
-   }
+    }
+
     .open-mobile-menu .fa-bars {
         display: block;
         color: #e9e9e9;
         margin-right: 20px;
-   }
+    }
 }
+
 @media (max-width: 683px) {
     .header2 a {
         display: none;
-   }
+    }
+
     .header2__logo span {
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
@@ -110,16 +117,19 @@
         justify-content: center;
         align-items: left;
         transform: translate(-70px);
-   }
+    }
+
     .open-mobile-menu .fa-bars {
         display: block;
         color: #e9e9e9;
-   }
+    }
 }
+
 @media (max-width: 600px) {
     .header2 a {
         display: none;
-   }
+    }
+
     .header2__logo span {
         font-size: 2rem;
         font-family: 'Bebas Neue', cursive;
@@ -128,5 +138,5 @@
         justify-content: center;
         align-items: left;
         transform: translate(-55%);
-   }
+    }
 }
