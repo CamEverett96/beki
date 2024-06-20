@@ -1,210 +1,221 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "16284512103cad8520": {
+      "type": "hero-two",
+      "settings": {
+        "hero_height": "100vh",
+        "image1": "shopify:\/\/shop_images\/pexels-humphrey-muleba-2072453.jpg",
+        "background1": "#000000",
+        "opacity1": 50,
+        "button_label1": "Mens",
+        "button_link1": "shopify:\/\/collections\/hair",
+        "image2": "shopify:\/\/shop_images\/pexels-godisable-jacob-1024032.jpg",
+        "background2": "#000000",
+        "opacity2": 50,
+        "button_label2": "Womens",
+        "button_link2": "shopify:\/\/collections\/hair"
+      }
+    },
+    "1628451142ba22e7a3": {
+      "type": "hero-one",
       "blocks": {
-        "heading": {
+        "1628451142ba22e7a3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "title": "Items of desire",
+            "title_size": "md"
           }
         },
-        "text": {
-          "type": "text",
+        "1628451142ba22e7a3-1": {
+          "type": "paragraph",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "paragraph": "View our most popular items!"
           }
         },
-        "button": {
-          "type": "buttons",
+        "1628451142ba22e7a3-2": {
+          "type": "button",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label": "Explore",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "1628451142ba22e7a3-0",
+        "1628451142ba22e7a3-1",
+        "1628451142ba22e7a3-2"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "hero_height": "100vh",
+        "image": "shopify:\/\/shop_images\/pexels-godisable-jacob-953262.jpg",
+        "background": "#000000",
+        "opacity": 50,
+        "info_alignment": "center"
       }
     },
-    "rich_text": {
-      "type": "rich-text",
+    "16284512746d6f5dbd": {
+      "type": "hero-one",
       "blocks": {
-        "heading": {
+        "16284512746d6f5dbd-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "title": "Fashion, Its a lifestyle!",
+            "title_size": "xl"
           }
         },
-        "text": {
-          "type": "text",
+        "16284512746d6f5dbd-1": {
+          "type": "paragraph",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "paragraph": "Express yourself, unapologetically"
+          }
+        },
+        "16284512746d6f5dbd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/collections\/all"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "16284512746d6f5dbd-0",
+        "16284512746d6f5dbd-1",
+        "16284512746d6f5dbd-2"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "hero_height": "100vh",
+        "image": "shopify:\/\/shop_images\/pexels-daniel-adesina-833052.jpg",
+        "background": "#000000",
+        "opacity": 40,
+        "info_alignment": "left"
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "162845116200ef6b93": {
+      "type": "hero-two",
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 28,
-        "padding_bottom": 36
+        "hero_height": "75vh",
+        "image1": "shopify:\/\/shop_images\/ow-bag.jpg",
+        "background1": "#000000",
+        "opacity1": 50,
+        "button_label1": "Backpacks for Men",
+        "button_link1": "",
+        "image2": "shopify:\/\/shop_images\/guess-girls-red-logo-backpack-35cm-429581-7b8c2f70bda5b7103c0e3e70caea6f1f56630cda.jpg",
+        "background2": "#000000",
+        "opacity2": 49,
+        "button_label2": "Bags for Women",
+        "button_link2": ""
       }
     },
-    "collage": {
-      "type": "collage",
+    "1628451172c00fbb03": {
+      "type": "collection-group",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
+        "e83ddb13-7ffe-4718-b636-2350f6bdce93": {
+          "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "men"
           }
         },
-        "product": {
-          "type": "product",
+        "2804bb1d-7cf1-4c25-8880-0a98dd738f13": {
+          "type": "featured_collection",
           "settings": {
-            "product": "",
-            "second_image": false
+            "collection": "women"
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "1b0d793f-8a40-4865-9a8e-2e5e6170b33b": {
+          "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "accessories"
+          }
+        },
+        "b6808190-b6d5-42af-81d7-b30057644376": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts"
           }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "e83ddb13-7ffe-4718-b636-2350f6bdce93",
+        "2804bb1d-7cf1-4c25-8880-0a98dd738f13",
+        "1b0d793f-8a40-4865-9a8e-2e5e6170b33b",
+        "b6808190-b6d5-42af-81d7-b30057644376"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "container_shape": "square",
+        "image_fit": "cover",
+        "background": "#ffffff",
+        "opacity": 100,
+        "show_title": true,
+        "xxl_col": "col-xxl-3",
+        "xl_col": "col-xl-3",
+        "lg_col": "col-lg-6",
+        "md_col": "col-md-4",
+        "sm_col": "col-sm-6"
       }
     },
-    "video": {
-      "type": "video",
+    "1656432306069a09f3": {
+      "type": "collection-products-1",
       "settings": {
-        "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "heading_size": "h1",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "collection": "adidas",
+        "total_products": 16,
+        "container_shape": "rectangle",
+        "image_fit": "contain",
+        "background": "#FFFFFF",
+        "opacity": 100,
+        "show_title": true,
+        "show_price": true,
+        "xxl_col": "col-xxl-3",
+        "xl_col": "col-xl-3",
+        "lg_col": "col-lg-3",
+        "md_col": "col-md-3",
+        "sm_col": "col-sm-6"
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
+    "16564326761677712d": {
+      "type": "hero-one",
       "blocks": {
-        "column1": {
-          "type": "column",
+        "16564326765adc7a6f-0": {
+          "type": "heading",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "60%",
+            "title_size": "md"
           }
         },
-        "column2": {
-          "type": "column",
+        "16564326765adc7a6f-1": {
+          "type": "paragraph",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "paragraph": "Shop our clearance section!"
           }
         },
-        "column3": {
-          "type": "column",
+        "16564326765adc7a6f-2": {
+          "type": "button",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all"
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "16564326765adc7a6f-0",
+        "16564326765adc7a6f-1",
+        "16564326765adc7a6f-2"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false,
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "hero_height": "50vh",
+        "image": "shopify:\/\/shop_images\/online-shopping-sale.jpg",
+        "background": "#000000",
+        "opacity": 50,
+        "info_alignment": "right"
       }
     }
   },
   "order": [
-    "image_banner",
-    "rich_text",
-    "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
+    "16284512103cad8520",
+    "1628451142ba22e7a3",
+    "16284512746d6f5dbd",
+    "162845116200ef6b93",
+    "1628451172c00fbb03",
+    "1656432306069a09f3",
+    "16564326761677712d"
   ]
 }
