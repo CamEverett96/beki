@@ -93,88 +93,44 @@
       ],
       "settings": {
         "hero_height": "100vh",
+        "image": "shopify:\/\/shop_images\/shanna-camilleri-ljNQxfyN7AM-unsplash.jpg",
         "background": "#000000",
         "opacity": 40,
         "info_alignment": "left"
       }
     },
-    "162845116200ef6b93": {
-      "type": "hero-two",
-      "settings": {
-        "hero_height": "75vh",
-        "background1": "#000000",
-        "opacity1": 50,
-        "button_label1": "Backpacks for Men",
-        "button_link1": "",
-        "background2": "#000000",
-        "opacity2": 49,
-        "button_label2": "Bags for Women",
-        "button_link2": ""
-      }
-    },
-    "1628451172c00fbb03": {
-      "type": "collection-group",
-      "blocks": {
-        "e83ddb13-7ffe-4718-b636-2350f6bdce93": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "men"
-          }
-        },
-        "2804bb1d-7cf1-4c25-8880-0a98dd738f13": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "women"
-          }
-        },
-        "1b0d793f-8a40-4865-9a8e-2e5e6170b33b": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "accessories"
-          }
-        },
-        "b6808190-b6d5-42af-81d7-b30057644376": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gifts"
-          }
-        }
-      },
-      "block_order": [
-        "e83ddb13-7ffe-4718-b636-2350f6bdce93",
-        "2804bb1d-7cf1-4c25-8880-0a98dd738f13",
-        "1b0d793f-8a40-4865-9a8e-2e5e6170b33b",
-        "b6808190-b6d5-42af-81d7-b30057644376"
-      ],
-      "settings": {
-        "container_shape": "square",
-        "image_fit": "cover",
-        "background": "#ffffff",
-        "opacity": 100,
-        "show_title": true,
-        "xxl_col": "col-xxl-3",
-        "xl_col": "col-xl-3",
-        "lg_col": "col-lg-6",
-        "md_col": "col-md-4",
-        "sm_col": "col-sm-6"
-      }
-    },
-    "1656432306069a09f3": {
+    "collection_products_1_bBKkUg": {
       "type": "collection-products-1",
       "settings": {
-        "collection": "adidas",
-        "total_products": 16,
-        "container_shape": "rectangle",
-        "image_fit": "contain",
-        "background": "#ffffff",
+        "collection": "nike-1",
+        "total_products": 8,
+        "container_shape": "square",
+        "image_fit": "cover",
+        "background": "#EDEFF5",
         "opacity": 100,
         "show_title": true,
         "show_price": true,
         "xxl_col": "col-xxl-3",
-        "xl_col": "col-xl-3",
-        "lg_col": "col-lg-3",
-        "md_col": "col-md-3",
+        "xl_col": "col-xl-4",
+        "lg_col": "col-lg-4",
+        "md_col": "col-md-4",
         "sm_col": "col-sm-6"
+      }
+    },
+    "162845116200ef6b93": {
+      "type": "hero-two",
+      "settings": {
+        "hero_height": "50vh",
+        "image1": "shopify:\/\/shop_images\/nb.webp",
+        "background1": "#000000",
+        "opacity1": 50,
+        "button_label1": "Backpacks for Men",
+        "button_link1": "",
+        "image2": "shopify:\/\/shop_images\/nbgirls.webp",
+        "background2": "#000000",
+        "opacity2": 49,
+        "button_label2": "Bags for Women",
+        "button_link2": ""
       }
     },
     "16564326761677712d": {
@@ -218,9 +174,8 @@
     "16284512103cad8520",
     "1628451142ba22e7a3",
     "16284512746d6f5dbd",
+    "collection_products_1_bBKkUg",
     "162845116200ef6b93",
-    "1628451172c00fbb03",
-    "1656432306069a09f3",
     "16564326761677712d"
   ]
 }
