@@ -246,7 +246,7 @@
         width="{{ section.settings.logo.width }}" height="{{ section.settings.logo.height }}"
         alt="{{ section.settings.logo.alt | default: shop.name | escape }}">
       {%- else -%}
-      {{ shop.name }}
+      {{ link.title | escape }}
       {%- endif -%}
     </a>
   </div>
