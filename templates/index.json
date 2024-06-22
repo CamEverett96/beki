@@ -1,15 +1,24 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "16284512103cad8520": {
       "type": "hero-two",
       "settings": {
         "hero_height": "100vh",
-        "image1": "shopify:\/\/shop_images\/pexels-humphrey-muleba-2072453.jpg",
+        "image1": "shopify:\/\/shop_images\/zahir-namane-TjUJJACTav4-unsplash.jpg",
         "background1": "#000000",
         "opacity1": 50,
         "button_label1": "Mens",
         "button_link1": "shopify:\/\/collections\/hair",
-        "image2": "shopify:\/\/shop_images\/pexels-godisable-jacob-1024032.jpg",
+        "image2": "shopify:\/\/shop_images\/jon-ly-Xn7GvimQrk8-unsplash.jpg",
         "background2": "#000000",
         "opacity2": 50,
         "button_label2": "Womens",
@@ -46,8 +55,8 @@
         "1628451142ba22e7a3-2"
       ],
       "settings": {
-        "hero_height": "100vh",
-        "image": "shopify:\/\/shop_images\/pexels-godisable-jacob-953262.jpg",
+        "hero_height": "75vh",
+        "image": "shopify:\/\/shop_images\/saeed-karimi-JrrWC7Qcmhs-unsplash.jpg",
         "background": "#000000",
         "opacity": 50,
         "info_alignment": "center"
@@ -84,7 +93,6 @@
       ],
       "settings": {
         "hero_height": "100vh",
-        "image": "shopify:\/\/shop_images\/pexels-daniel-adesina-833052.jpg",
         "background": "#000000",
         "opacity": 40,
         "info_alignment": "left"
@@ -94,12 +102,10 @@
       "type": "hero-two",
       "settings": {
         "hero_height": "75vh",
-        "image1": "shopify:\/\/shop_images\/ow-bag.jpg",
         "background1": "#000000",
         "opacity1": 50,
         "button_label1": "Backpacks for Men",
         "button_link1": "",
-        "image2": "shopify:\/\/shop_images\/guess-girls-red-logo-backpack-35cm-429581-7b8c2f70bda5b7103c0e3e70caea6f1f56630cda.jpg",
         "background2": "#000000",
         "opacity2": 49,
         "button_label2": "Bags for Women",
@@ -160,7 +166,7 @@
         "total_products": 16,
         "container_shape": "rectangle",
         "image_fit": "contain",
-        "background": "#FFFFFF",
+        "background": "#ffffff",
         "opacity": 100,
         "show_title": true,
         "show_price": true,
@@ -202,7 +208,6 @@
       ],
       "settings": {
         "hero_height": "50vh",
-        "image": "shopify:\/\/shop_images\/online-shopping-sale.jpg",
         "background": "#000000",
         "opacity": 50,
         "info_alignment": "right"
