@@ -163,7 +163,8 @@
         "16564326765adc7a6f-2"
       ],
       "settings": {
-        "hero_height": "50vh",
+        "hero_height": "75vh",
+        "image": "shopify:\/\/shop_images\/joshua-earle-XnDQ9uXILRE-unsplash.jpg",
         "background": "#000000",
         "opacity": 50,
         "info_alignment": "right"
