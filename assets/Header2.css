@@ -19,7 +19,8 @@
 
 .header2__collections-nav {
     margin-bottom: 0;
-    padding-left: 0
+    padding-left: 0;
+    display: flex;
 }
 
 .header2__collections-nav a {
