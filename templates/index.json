@@ -9,22 +9,6 @@
 */
 {
   "sections": {
-    "16284512103cad8520": {
-      "type": "hero-two",
-      "settings": {
-        "hero_height": "100vh",
-        "image1": "shopify:\/\/shop_images\/zahir-namane-TjUJJACTav4-unsplash.jpg",
-        "background1": "#000000",
-        "opacity1": 50,
-        "button_label1": "Mens",
-        "button_link1": "shopify:\/\/collections\/hair",
-        "image2": "shopify:\/\/shop_images\/jon-ly-Xn7GvimQrk8-unsplash.jpg",
-        "background2": "#000000",
-        "opacity2": 50,
-        "button_label2": "Womens",
-        "button_link2": "shopify:\/\/collections\/hair"
-      }
-    },
     "1628451142ba22e7a3": {
       "type": "hero-one",
       "blocks": {
@@ -56,10 +40,26 @@
       ],
       "settings": {
         "hero_height": "75vh",
-        "image": "shopify:\/\/shop_images\/saeed-karimi-JrrWC7Qcmhs-unsplash.jpg",
+        "image": "shopify:\/\/shop_images\/Treatments_hero_Desktop.webp",
         "background": "#000000",
-        "opacity": 50,
-        "info_alignment": "center"
+        "opacity": 14,
+        "info_alignment": "left"
+      }
+    },
+    "16284512103cad8520": {
+      "type": "hero-two",
+      "settings": {
+        "hero_height": "100vh",
+        "image1": "shopify:\/\/shop_images\/zahir-namane-TjUJJACTav4-unsplash.jpg",
+        "background1": "#000000",
+        "opacity1": 50,
+        "button_label1": "Mens",
+        "button_link1": "shopify:\/\/collections\/hair",
+        "image2": "shopify:\/\/shop_images\/jon-ly-Xn7GvimQrk8-unsplash.jpg",
+        "background2": "#000000",
+        "opacity2": 50,
+        "button_label2": "Womens",
+        "button_link2": "shopify:\/\/collections\/hair"
       }
     },
     "16284512746d6f5dbd": {
@@ -106,7 +106,7 @@
         "total_products": 8,
         "container_shape": "square",
         "image_fit": "cover",
-        "background": "#EDEFF5",
+        "background": "#edeff5",
         "opacity": 100,
         "show_title": true,
         "show_price": true,
@@ -172,8 +172,8 @@
     }
   },
   "order": [
-    "16284512103cad8520",
     "1628451142ba22e7a3",
+    "16284512103cad8520",
     "16284512746d6f5dbd",
     "collection_products_1_bBKkUg",
     "162845116200ef6b93",
