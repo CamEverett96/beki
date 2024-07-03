@@ -142,8 +142,8 @@
     "collection_products_1_bBKkUg": {
       "type": "collection-products-1",
       "settings": {
-        "collection": "nike-1",
-        "total_products": 8,
+        "collection": "body-care",
+        "total_products": 6,
         "container_shape": "square",
         "image_fit": "cover",
         "background": "#edeff5",
