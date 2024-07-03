@@ -143,16 +143,16 @@
       "type": "collection-products-1",
       "settings": {
         "collection": "body-care",
-        "total_products": 6,
+        "total_products": 4,
         "container_shape": "square",
-        "image_fit": "cover",
-        "background": "#edeff5",
+        "image_fit": "contain",
+        "background": "#f9f9f9",
         "opacity": 100,
         "show_title": true,
         "show_price": true,
         "xxl_col": "col-xxl-3",
         "xl_col": "col-xl-4",
-        "lg_col": "col-lg-4",
+        "lg_col": "col-lg-3",
         "md_col": "col-md-4",
         "sm_col": "col-sm-6"
       }
