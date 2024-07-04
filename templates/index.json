@@ -9,36 +9,20 @@
 */
 {
   "sections": {
-    "16284512103cad8520": {
-      "type": "hero-two",
-      "settings": {
-        "hero_height": "100vh",
-        "image1": "shopify:\/\/shop_images\/zahir-namane-TjUJJACTav4-unsplash.jpg",
-        "background1": "#000000",
-        "opacity1": 50,
-        "button_label1": "Mens",
-        "button_link1": "shopify:\/\/collections\/hair",
-        "image2": "shopify:\/\/shop_images\/jon-ly-Xn7GvimQrk8-unsplash.jpg",
-        "background2": "#000000",
-        "opacity2": 50,
-        "button_label2": "Womens",
-        "button_link2": "shopify:\/\/collections\/hair"
-      }
-    },
     "1628451142ba22e7a3": {
       "type": "hero-one",
       "blocks": {
         "1628451142ba22e7a3-0": {
           "type": "heading",
           "settings": {
-            "title": "Items of desire",
-            "title_size": "md"
+            "title": "feel. alive.",
+            "title_size": "lg"
           }
         },
         "1628451142ba22e7a3-1": {
           "type": "paragraph",
           "settings": {
-            "paragraph": "View our most popular items!"
+            "paragraph": "Visible results in 8–12 weeks"
           }
         },
         "1628451142ba22e7a3-2": {
@@ -56,10 +40,151 @@
       ],
       "settings": {
         "hero_height": "75vh",
-        "image": "shopify:\/\/shop_images\/saeed-karimi-JrrWC7Qcmhs-unsplash.jpg",
+        "image": "shopify:\/\/shop_images\/jSdIHi6DQzm9niAnJt3w_ganier-micellar-finder-quiz-landing-page-1920x1080.jpg",
         "background": "#000000",
-        "opacity": 50,
+        "opacity": 12,
         "info_alignment": "center"
+      }
+    },
+    "collection_group_BizweR": {
+      "type": "collection-group",
+      "blocks": {
+        "featured_collection_RMAwFp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "body-care"
+          }
+        },
+        "featured_collection_ePgKnf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "toners"
+          }
+        },
+        "featured_collection_xDHydt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "exfoliants"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_RMAwFp",
+        "featured_collection_ePgKnf",
+        "featured_collection_xDHydt"
+      ],
+      "settings": {
+        "container_shape": "rectangle",
+        "image_fit": "cover",
+        "background": "#ffffff",
+        "opacity": 100,
+        "show_title": true,
+        "xxl_col": "col-xxl-4",
+        "xl_col": "col-xl-4",
+        "lg_col": "col-lg-4",
+        "md_col": "col-md-4",
+        "sm_col": "col-sm-2"
+      }
+    },
+    "rich_text_pkGGwL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JE6tA6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dermatologist Insight",
+            "heading_size": "medium"
+          }
+        },
+        "text_QdmkiL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"I love DRMTLGY as a brand as the products are truly backed by science, which is ever-changing. DRMTLGY is one of the few brands that strive for innovation and put themselves at the cutting edge of skincare. Another great aspect is the brand's inclusivity- there really is a product for all skin types, tones, and colors.\"<\/p><p><em><strong>-Dr. Kunal Malik<\/strong><\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JE6tA6",
+        "text_QdmkiL"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "16284512103cad8520": {
+      "type": "hero-two",
+      "settings": {
+        "hero_height": "50vh",
+        "image1": "shopify:\/\/shop_images\/retinol-main.webp",
+        "background1": "#000000",
+        "opacity1": 0,
+        "button_label1": "Acne",
+        "button_link1": "shopify:\/\/collections\/hair",
+        "image2": "shopify:\/\/shop_images\/ANTI-AGING_COLLECTION0MAIN_b50b5007-e291-4ff4-86ff-d0b9763d238a.webp",
+        "background2": "#000000",
+        "opacity2": 0,
+        "button_label2": "Anti-Aging",
+        "button_link2": "shopify:\/\/collections\/hair"
+      }
+    },
+    "collection_products_1_bBKkUg": {
+      "type": "collection-products-1",
+      "settings": {
+        "collection": "body-care",
+        "total_products": 8,
+        "container_shape": "square",
+        "image_fit": "contain",
+        "background": "#f9f9f9",
+        "opacity": 100,
+        "show_title": true,
+        "show_price": true,
+        "xxl_col": "col-xxl-3",
+        "xl_col": "col-xl-4",
+        "lg_col": "col-lg-3",
+        "md_col": "col-md-4",
+        "sm_col": "col-sm-6"
+      }
+    },
+    "multicolumn_zdE9C4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Qkcnq6": {
+          "type": "column",
+          "settings": {
+            "title": "S.B.K",
+            "text": "<p>My collection keep expanding, I absolutely love<br\/>this line.<\/p>"
+          }
+        },
+        "column_RDcgfJ": {
+          "type": "column",
+          "settings": {
+            "title": "M. L.",
+            "text": "<p>I love love love when all of you confident women post photos without filters! Love seeing how the products actually truly work and the progression these products have made on your skin.<\/p>"
+          }
+        },
+        "column_aqnRQC": {
+          "type": "column",
+          "settings": {
+            "title": "D.S.M",
+            "text": "<p>I’m 69 in a matter of weeks. I have been using needle-less serum and peptide night cream for a few months and am really loving these products.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_Qkcnq6",
+        "column_RDcgfJ",
+        "column_aqnRQC"
+      ],
+      "settings": {
+        "title": "See what other think...",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "16284512746d6f5dbd": {
@@ -68,14 +193,14 @@
         "16284512746d6f5dbd-0": {
           "type": "heading",
           "settings": {
-            "title": "Fashion, Its a lifestyle!",
-            "title_size": "xl"
+            "title": "Join Drmtlgy Rewards",
+            "title_size": "md"
           }
         },
         "16284512746d6f5dbd-1": {
           "type": "paragraph",
           "settings": {
-            "paragraph": "Express yourself, unapologetically"
+            "paragraph": "Sign up for Drmtlgy Rewards to receive insider perks, exclusive early access, and points every time you shop."
           }
         },
         "16284512746d6f5dbd-2": {
@@ -92,91 +217,21 @@
         "16284512746d6f5dbd-2"
       ],
       "settings": {
-        "hero_height": "100vh",
-        "image": "shopify:\/\/shop_images\/shanna-camilleri-ljNQxfyN7AM-unsplash.jpg",
-        "background": "#000000",
-        "opacity": 40,
-        "info_alignment": "left"
-      }
-    },
-    "collection_products_1_bBKkUg": {
-      "type": "collection-products-1",
-      "settings": {
-        "collection": "nike-1",
-        "total_products": 8,
-        "container_shape": "square",
-        "image_fit": "cover",
-        "background": "#EDEFF5",
-        "opacity": 100,
-        "show_title": true,
-        "show_price": true,
-        "xxl_col": "col-xxl-3",
-        "xl_col": "col-xl-4",
-        "lg_col": "col-lg-4",
-        "md_col": "col-md-4",
-        "sm_col": "col-sm-6"
-      }
-    },
-    "162845116200ef6b93": {
-      "type": "hero-two",
-      "settings": {
-        "hero_height": "50vh",
-        "image1": "shopify:\/\/shop_images\/nb.webp",
-        "background1": "#000000",
-        "opacity1": 50,
-        "button_label1": "Backpacks for Men",
-        "button_link1": "",
-        "image2": "shopify:\/\/shop_images\/nbgirls.webp",
-        "background2": "#000000",
-        "opacity2": 49,
-        "button_label2": "Bags for Women",
-        "button_link2": ""
-      }
-    },
-    "16564326761677712d": {
-      "type": "hero-one",
-      "blocks": {
-        "16564326765adc7a6f-0": {
-          "type": "heading",
-          "settings": {
-            "title": "60%",
-            "title_size": "md"
-          }
-        },
-        "16564326765adc7a6f-1": {
-          "type": "paragraph",
-          "settings": {
-            "paragraph": "Shop our clearance section!"
-          }
-        },
-        "16564326765adc7a6f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all"
-          }
-        }
-      },
-      "block_order": [
-        "16564326765adc7a6f-0",
-        "16564326765adc7a6f-1",
-        "16564326765adc7a6f-2"
-      ],
-      "settings": {
         "hero_height": "75vh",
-        "image": "shopify:\/\/shop_images\/joshua-earle-XnDQ9uXILRE-unsplash.jpg",
+        "image": "shopify:\/\/shop_images\/main_banner_950x_bc6c6b8b-c02f-4b04-9c59-aefc0d60c8b4.webp",
         "background": "#000000",
-        "opacity": 50,
-        "info_alignment": "right"
+        "opacity": 24,
+        "info_alignment": "center"
       }
     }
   },
   "order": [
-    "16284512103cad8520",
     "1628451142ba22e7a3",
-    "16284512746d6f5dbd",
+    "collection_group_BizweR",
+    "rich_text_pkGGwL",
+    "16284512103cad8520",
     "collection_products_1_bBKkUg",
-    "162845116200ef6b93",
-    "16564326761677712d"
+    "multicolumn_zdE9C4",
+    "16284512746d6f5dbd"
   ]
 }
