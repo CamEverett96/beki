@@ -80,8 +80,8 @@
         "opacity": 100,
         "show_title": true,
         "xxl_col": "col-xxl-4",
-        "xl_col": "col-xl-4",
-        "lg_col": "col-lg-4",
+        "xl_col": "col-xl-3",
+        "lg_col": "col-lg-3",
         "md_col": "col-md-4",
         "sm_col": "col-sm-2"
       }
@@ -100,6 +100,24 @@
         "opacity2": 0,
         "button_label2": "Anti-Aging",
         "button_link2": "shopify:\/\/collections\/hair"
+      }
+    },
+    "collection_products_1_bBKkUg": {
+      "type": "collection-products-1",
+      "settings": {
+        "collection": "body-care",
+        "total_products": 4,
+        "container_shape": "square",
+        "image_fit": "contain",
+        "background": "#f9f9f9",
+        "opacity": 100,
+        "show_title": true,
+        "show_price": true,
+        "xxl_col": "col-xxl-3",
+        "xl_col": "col-xl-4",
+        "lg_col": "col-lg-3",
+        "md_col": "col-md-4",
+        "sm_col": "col-sm-6"
       }
     },
     "16284512746d6f5dbd": {
@@ -138,86 +156,13 @@
         "opacity": 24,
         "info_alignment": "center"
       }
-    },
-    "collection_products_1_bBKkUg": {
-      "type": "collection-products-1",
-      "settings": {
-        "collection": "body-care",
-        "total_products": 4,
-        "container_shape": "square",
-        "image_fit": "contain",
-        "background": "#f9f9f9",
-        "opacity": 100,
-        "show_title": true,
-        "show_price": true,
-        "xxl_col": "col-xxl-3",
-        "xl_col": "col-xl-4",
-        "lg_col": "col-lg-3",
-        "md_col": "col-md-4",
-        "sm_col": "col-sm-6"
-      }
-    },
-    "162845116200ef6b93": {
-      "type": "hero-two",
-      "settings": {
-        "hero_height": "50vh",
-        "image1": "shopify:\/\/shop_images\/nb.webp",
-        "background1": "#000000",
-        "opacity1": 50,
-        "button_label1": "Backpacks for Men",
-        "button_link1": "",
-        "image2": "shopify:\/\/shop_images\/nbgirls.webp",
-        "background2": "#000000",
-        "opacity2": 49,
-        "button_label2": "Bags for Women",
-        "button_link2": ""
-      }
-    },
-    "16564326761677712d": {
-      "type": "hero-one",
-      "blocks": {
-        "16564326765adc7a6f-0": {
-          "type": "heading",
-          "settings": {
-            "title": "60%",
-            "title_size": "md"
-          }
-        },
-        "16564326765adc7a6f-1": {
-          "type": "paragraph",
-          "settings": {
-            "paragraph": "Shop our clearance section!"
-          }
-        },
-        "16564326765adc7a6f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all"
-          }
-        }
-      },
-      "block_order": [
-        "16564326765adc7a6f-0",
-        "16564326765adc7a6f-1",
-        "16564326765adc7a6f-2"
-      ],
-      "settings": {
-        "hero_height": "75vh",
-        "image": "shopify:\/\/shop_images\/joshua-earle-XnDQ9uXILRE-unsplash.jpg",
-        "background": "#000000",
-        "opacity": 50,
-        "info_alignment": "right"
-      }
     }
   },
   "order": [
     "1628451142ba22e7a3",
     "collection_group_BizweR",
     "16284512103cad8520",
-    "16284512746d6f5dbd",
     "collection_products_1_bBKkUg",
-    "162845116200ef6b93",
-    "16564326761677712d"
+    "16284512746d6f5dbd"
   ]
 }
