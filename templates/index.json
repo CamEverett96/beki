@@ -108,14 +108,14 @@
         "16284512746d6f5dbd-0": {
           "type": "heading",
           "settings": {
-            "title": "Fashion, Its a lifestyle!",
-            "title_size": "xl"
+            "title": "Join Drmtlgy Rewards",
+            "title_size": "md"
           }
         },
         "16284512746d6f5dbd-1": {
           "type": "paragraph",
           "settings": {
-            "paragraph": "Express yourself, unapologetically"
+            "paragraph": "Sign up for Drmtlgy Rewards to receive insider perks, exclusive early access, and points every time you shop."
           }
         },
         "16284512746d6f5dbd-2": {
@@ -135,8 +135,8 @@
         "hero_height": "75vh",
         "image": "shopify:\/\/shop_images\/main_banner_950x_bc6c6b8b-c02f-4b04-9c59-aefc0d60c8b4.webp",
         "background": "#000000",
-        "opacity": 40,
-        "info_alignment": "left"
+        "opacity": 24,
+        "info_alignment": "center"
       }
     },
     "collection_products_1_bBKkUg": {
