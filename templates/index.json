@@ -55,12 +55,6 @@
             "collection": "body-care"
           }
         },
-        "featured_collection_JmyjVR": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cleansers"
-          }
-        },
         "featured_collection_ePgKnf": {
           "type": "featured_collection",
           "settings": {
@@ -76,7 +70,6 @@
       },
       "block_order": [
         "featured_collection_RMAwFp",
-        "featured_collection_JmyjVR",
         "featured_collection_ePgKnf",
         "featured_collection_xDHydt"
       ],
@@ -87,7 +80,7 @@
         "opacity": 100,
         "show_title": true,
         "xxl_col": "col-xxl-4",
-        "xl_col": "col-xl-3",
+        "xl_col": "col-xl-4",
         "lg_col": "col-lg-3",
         "md_col": "col-md-4",
         "sm_col": "col-sm-2"
