@@ -105,8 +105,8 @@
     "collection_products_1_bBKkUg": {
       "type": "collection-products-1",
       "settings": {
-        "collection": "exfoliants",
-        "total_products": 4,
+        "collection": "body-care",
+        "total_products": 8,
         "container_shape": "square",
         "image_fit": "contain",
         "background": "#f9f9f9",
