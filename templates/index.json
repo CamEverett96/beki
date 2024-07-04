@@ -42,7 +42,7 @@
         "hero_height": "75vh",
         "image": "shopify:\/\/shop_images\/BANNER_DESKTOP_1.webp",
         "background": "#000000",
-        "opacity": 14,
+        "opacity": 0,
         "info_alignment": "left"
       }
     },
@@ -92,12 +92,12 @@
         "hero_height": "50vh",
         "image1": "shopify:\/\/shop_images\/retinol-main.webp",
         "background1": "#000000",
-        "opacity1": 50,
+        "opacity1": 0,
         "button_label1": "Acne",
         "button_link1": "shopify:\/\/collections\/hair",
         "image2": "shopify:\/\/shop_images\/ANTI-AGING_COLLECTION0MAIN_b50b5007-e291-4ff4-86ff-d0b9763d238a.webp",
         "background2": "#000000",
-        "opacity2": 50,
+        "opacity2": 0,
         "button_label2": "Anti-Aging",
         "button_link2": "shopify:\/\/collections\/hair"
       }
