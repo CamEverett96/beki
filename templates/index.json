@@ -40,7 +40,7 @@
       ],
       "settings": {
         "hero_height": "75vh",
-        "image": "shopify:\/\/shop_images\/Treatments_hero_Desktop.webp",
+        "image": "shopify:\/\/shop_images\/DERM-INSIGHTS-MAIN_b370a369-3e56-4dc6-9887-3aebef2ae15f.webp",
         "background": "#000000",
         "opacity": 14,
         "info_alignment": "left"
@@ -61,17 +61,17 @@
             "collection": "cleansers"
           }
         },
-        "featured_collection_WVYizw": {
+        "featured_collection_ePgKnf": {
           "type": "featured_collection",
           "settings": {
-            "collection": "moisturizers"
+            "collection": "toners"
           }
         }
       },
       "block_order": [
         "featured_collection_RMAwFp",
         "featured_collection_JmyjVR",
-        "featured_collection_WVYizw"
+        "featured_collection_ePgKnf"
       ],
       "settings": {
         "container_shape": "square",
