@@ -40,7 +40,7 @@
       ],
       "settings": {
         "hero_height": "75vh",
-        "image": "shopify:\/\/shop_images\/DERM-INSIGHTS-MAIN_b370a369-3e56-4dc6-9887-3aebef2ae15f.webp",
+        "image": "shopify:\/\/shop_images\/main_banner_950x_bc6c6b8b-c02f-4b04-9c59-aefc0d60c8b4.webp",
         "background": "#000000",
         "opacity": 14,
         "info_alignment": "left"
@@ -133,7 +133,7 @@
       ],
       "settings": {
         "hero_height": "75vh",
-        "image": "shopify:\/\/shop_images\/DERM-INSIGHTS-MAIN.webp",
+        "image": "shopify:\/\/shop_images\/main_banner_950x_bc6c6b8b-c02f-4b04-9c59-aefc0d60c8b4.webp",
         "background": "#000000",
         "opacity": 40,
         "info_alignment": "left"
