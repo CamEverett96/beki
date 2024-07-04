@@ -182,6 +182,47 @@
         "opacity": 24,
         "info_alignment": "center"
       }
+    },
+    "multicolumn_zdE9C4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_aqnRQC": {
+          "type": "column",
+          "settings": {
+            "title": "D.S.M",
+            "text": "<p>I’m 69 in a matter of weeks. I have been using needle-less serum and peptide night cream for a few months and am really loving these products.<\/p>"
+          }
+        },
+        "column_Qkcnq6": {
+          "type": "column",
+          "settings": {
+            "title": "S.B.K",
+            "text": "<p>My collection keep expanding, I absolutely love<br\/>this line.<\/p>"
+          }
+        },
+        "column_RDcgfJ": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_aqnRQC",
+        "column_Qkcnq6",
+        "column_RDcgfJ"
+      ],
+      "settings": {
+        "title": "See what other think...",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
     }
   },
   "order": [
@@ -190,6 +231,7 @@
     "rich_text_pkGGwL",
     "16284512103cad8520",
     "collection_products_1_bBKkUg",
-    "16284512746d6f5dbd"
+    "16284512746d6f5dbd",
+    "multicolumn_zdE9C4"
   ]
 }
