@@ -74,8 +74,8 @@
         "featured_collection_xDHydt"
       ],
       "settings": {
-        "container_shape": "square",
-        "image_fit": "contain",
+        "container_shape": "rectangle",
+        "image_fit": "cover",
         "background": "#ffffff",
         "opacity": 100,
         "show_title": true,
