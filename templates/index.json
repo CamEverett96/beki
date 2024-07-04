@@ -186,13 +186,6 @@
     "multicolumn_zdE9C4": {
       "type": "multicolumn",
       "blocks": {
-        "column_aqnRQC": {
-          "type": "column",
-          "settings": {
-            "title": "D.S.M",
-            "text": "<p>I’m 69 in a matter of weeks. I have been using needle-less serum and peptide night cream for a few months and am really loving these products.<\/p>"
-          }
-        },
         "column_Qkcnq6": {
           "type": "column",
           "settings": {
@@ -206,12 +199,19 @@
             "title": "M. L.",
             "text": "<p>I love love love when all of you confident women post photos without filters! Love seeing how the products actually truly work and the progression these products have made on your skin.<\/p>"
           }
+        },
+        "column_aqnRQC": {
+          "type": "column",
+          "settings": {
+            "title": "D.S.M",
+            "text": "<p>I’m 69 in a matter of weeks. I have been using needle-less serum and peptide night cream for a few months and am really loving these products.<\/p>"
+          }
         }
       },
       "block_order": [
-        "column_aqnRQC",
         "column_Qkcnq6",
-        "column_RDcgfJ"
+        "column_RDcgfJ",
+        "column_aqnRQC"
       ],
       "settings": {
         "title": "See what other think...",
