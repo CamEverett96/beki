@@ -66,12 +66,19 @@
           "settings": {
             "collection": "toners"
           }
+        },
+        "featured_collection_xDHydt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "exfoliants"
+          }
         }
       },
       "block_order": [
         "featured_collection_RMAwFp",
         "featured_collection_JmyjVR",
-        "featured_collection_ePgKnf"
+        "featured_collection_ePgKnf",
+        "featured_collection_xDHydt"
       ],
       "settings": {
         "container_shape": "square",
