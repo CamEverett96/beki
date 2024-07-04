@@ -42,7 +42,7 @@
         "hero_height": "75vh",
         "image": "shopify:\/\/shop_images\/BANNER_DESKTOP_1.webp",
         "background": "#000000",
-        "opacity": 0,
+        "opacity": 12,
         "info_alignment": "left"
       }
     },
